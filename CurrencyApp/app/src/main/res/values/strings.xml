@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="txtMainTitle">Convert Currency</string>
+    <string name="editTxtInput">Convert Input US dollars</string>
+    <string name="rdbUstoEu">Convert US dollars to EU</string>
+    <string name="rdbUstoPesos">Convert US dollars to Mexican Pesos</string>
+    <string name="rdbUstoCa">Convert US to CA dollars</string>
+    <string name="btnResult">Convert Currency</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo02_Prac02</string>
+    <string name="txtMainTitle">Segway Rentals</string>
+    <string name="txtMainParagraph">Experience the wonder of this future advance of transportation for a city group tour starting at noon each day</string>
+    <string name="btnMain">Rent A Segway</string>
+    <string name="txtViewSegway">The Segway tour is only $52 for an amazing 2-hour journey.</string>
+</resources>

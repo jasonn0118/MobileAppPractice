@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myPrac02</string>
+    <string name="titleMain">Bruschetta Recipe</string>
+    <string name="mainButton">View Recipe</string>
+    <string name="textTilteRecipe">Bruchetta Recipe</string>
+    <string name="txtIngredient">Ingredients</string>
+    <string name="txtItem1">4 Plums Tomatoes</string>
+    <string name="txtItem2">6 Basil leaves</string>
+    <string name="txtItem3">3 Garlic cloves, chopped</string>
+</resources>

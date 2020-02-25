@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo03_Prac01</string>
+    <string name="txtMainTitle">Ticket Vault</string>
+    <string name="txtTicketNum">Number of Tickets</string>
+    <string name="btnCost">FIND THE COST</string>
+    <string-array name="txtGroup">
+        <item>Life Revealed</item>
+        <item>Spatial Sense</item>
+        <item>Zig Zag</item>
+    </string-array>
+</resources>

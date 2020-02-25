@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo04_prac01</string>
+    <string name="txtMainTitle">Convert Patient Weight</string>
+    <string name="editTxtWeight">Weight of Patient</string>
+    <string name="rdbOption1">Convert Pounds to Kilograms</string>
+    <string name="rdbOption2">Convert Kilograms to Pounds</string>
+    <string name="btnConvert">Convert Weight</string>
+</resources>
